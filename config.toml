@@ -1,0 +1,68 @@
+baseurl = "https://justani.me"
+title = "Aniruddh"
+theme = "pulp"
+canonifyurls = true
+hasCJKLanguage = true
+# pygmentsCodefences = true
+# pygmentsUseClasses = true
+# googleAnalytics = "{your tracking code}"
+
+[markup.goldmark.renderer]
+    unsafe = true # Allow user HTML tags
+
+[params]
+    author = "Aniruddh Dubey"
+    avatar = "avatar3.jpg"
+    avatarDescription = "Aniruddh"
+    favicon = "favicon.ico"
+    description = """
+        Hi there!
+        I am Aniruddh, Software Engineer at <a href='https://codechef.com'>CodeChef</a>.
+        Here to fall in love with Tech and make an impact.
+    """
+    publicationYear = "2020"
+    # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
+    # singlePageDateFormat = "January 2, 2006"
+    custom_css = ["/css/custom.css"]
+    # custom_js = ["/js/custom.js"]
+
+# Make sure setting a following option for search bar to work
+[outputs]
+    section = ["JSON", "HTML"]
+    term = ["JSON", "HTML"]
+
+[[menu.main]]
+    identifier = "about"
+    name = "About" #If display text link, cancel comment out
+    pre = "<i class='fa fa-info' aria-hidden='true'></i>" #Choose your favorite font from Font Awesome
+    url = "/about"
+    weight = 10
+
+[[menu.main]]
+    identifier = "posts"
+    name = "Posts" #If display text link, cancel comment out
+    pre = "<i class='fa fa-book-open fa-lg' aria-hidden='true'></i>" #Choose your favorite font from Font Awesome
+    url = "/posts/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    pre = "<i class='fab fa-linkedin' aria-hidden='true'></i>"
+    url = "https://linkedin.com/in/justani"
+    weight = 20
+
+
+[[menu.main]]
+    identifier = "github"
+    name = "GitHub"
+    pre = "<i class='fab fa-github fa-lg' aria-hidden='true'></i>"
+    url = "https://github.com/justani"
+    weight = 30
+
+[[menu.main]]
+    identifier = "email"
+    name = "Email"
+    pre = "<i class='fa fa-envelope fa-lg' aria-hidden='true'></i>"
+    url = "mailto:justani@gmail.com"
+    weight = 40
