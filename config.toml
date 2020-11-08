@@ -1,4 +1,4 @@
-baseurl = "https://justani.me"
+baseurl = "https://justani.netlify.app"
 title = "Aniruddh"
 theme = "pulp"
 canonifyurls = true
