@@ -1,5 +1,5 @@
 baseurl = "https://justani.me"
-title = "Aniruddh"
+title = "Aniruddh Dubey"
 theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
@@ -12,7 +12,7 @@ hasCJKLanguage = true
 
 [params]
     author = "Aniruddh Dubey"
-    avatar = "avatar.jpeg"
+    avatar = "avatar.jpg"
     avatarDescription = "Aniruddh"
     favicon = "favicon.ico"
     description = """
@@ -64,5 +64,5 @@ hasCJKLanguage = true
     identifier = "email"
     name = "Email"
     pre = "<i class='fa fa-envelope fa-lg' aria-hidden='true'></i>"
-    url = "mailto:justani@gmail.com"
+    url = "mailto:justani98@gmail.com"
     weight = 40
