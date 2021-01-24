@@ -23,7 +23,21 @@ header a.author:active {
 }
 
 body {
-background-color: #e6ebf1;
+    background-color: #e6ebf1;
+    color: #2d2d2d;
+}
+
+a:link {
+    color: #777;
+}
+
+a:hover {
+    color: #2d2d2d;
+}
+
+#searchResults {
+    position: initial;
+    background-color: initial;  
 }
 
 header .avatarMask {
