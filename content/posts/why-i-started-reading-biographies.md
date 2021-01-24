@@ -2,6 +2,7 @@
 title: "Why I Started Reading Biographies"
 date: 2021-01-24T15:38:03+05:30
 draft: false
+tags: ["books"]
 ---
 
 Nowadays, I keep myself busy with reading biographies of famous personalities of the world. I am a natural introvert who can't go out and talk about life with people. I can always talk business, but if you want me to open up and share life and ask you to share your life with me, not possible.
