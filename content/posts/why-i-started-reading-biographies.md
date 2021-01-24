@@ -22,5 +22,5 @@ Some biographies that I have read till now
 3. The story of My Experiments with Truth
 4. Long Walk to Freedom
 
-I will keep updating the lists as I read more.
+I will keep updating the list as I read more.
 I will also try to post my learning from these books.
