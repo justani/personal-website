@@ -40,6 +40,15 @@ a:hover {
     background-color: initial;  
 }
 
+#searchBox #searchBoxInput {
+    background-color: #e6e6e6;
+    color: #353535;
+}
+
+#tags li a {
+    background-color: #e6e6e6;
+}
+
 header .avatarMask {
 	clip-path:circle(80px at center);
 	-webkit-clip-path:circle(80px at center)
