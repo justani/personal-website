@@ -20,7 +20,7 @@ hasCJKLanguage = true
         I am Aniruddh, Software Engineer at <a href='https://codechef.com'>CodeChef</a>.
         Here to fall in love with Tech and make an impact.
     """
-    publicationYear = "2020"
+    publicationYear = "2021"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
     # singlePageDateFormat = "January 2, 2006"
     custom_css = ["/css/custom.css"]
@@ -51,7 +51,6 @@ hasCJKLanguage = true
     pre = "<i class='fab fa-linkedin' aria-hidden='true'></i>"
     url = "https://linkedin.com/in/justani"
     weight = 20
-
 
 [[menu.main]]
     identifier = "github"
